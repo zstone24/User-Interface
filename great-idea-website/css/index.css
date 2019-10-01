@@ -64,3 +64,23 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.navigation{
+	display:inline-block;
+	margin: 100px;
+	padding: 100px;
+
+}
+
+.title header{
+	display:inline-block;
+
+}
+
+.first content{
+	margin: 100px;
+}
+
+.footer{
+
+}
